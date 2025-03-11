@@ -25,3 +25,12 @@ Assim como no Publisher, podem haver mais de um Subscriber "consumindo" os dados
 ### Nós:
 
 ### Serviços e Cliente:
+
+
+
+### Fontes:
+
+- https://docs.ros.org/en/jazzy/Concepts/Basic/About-Topics.html
+- https://docs.ros.org/en/jazzy/Concepts/Basic.html
+- https://docs.ros.org/en/jazzy/Concepts/Basic/About-Nodes.html
+- https://docs.ros.org/en/jazzy/Concepts/Basic/About-Services.html
